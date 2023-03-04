@@ -1,0 +1,14 @@
+BOT_TOKEN: 
+  - ODUwODkxMTQzMDI5MzI1ODM0.GrXQ2H.jF-Wf6yY335pozNg_Wbv_zxoDZHxGLWhWBi3WI
+  - NTI2NjA4Mjg4NjkxOTEyNzE1.GjtJip.X8UFYgqdBce50HD4_jVThhJJiAjVNlCFWsbu-g
+  - MTA1MTUwOTMzMDgwNzA5OTQzNA.Go5Bv7.gHr_K51WeUs52LUg_K-3HF3SElZQM-HDmEB0O8
+CHANNEL_ID: 
+  - 1070804198498783313
+MODE: chatgpt
+REPLY: Y
+SIMSIMI_LANG: en
+DELAY: 61
+DEL_AFTER: 
+REPOST_LAST_CHAT: 160
+OPENAI_KEY: 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
+YOU_ARE: You are El, a human member apart of a Discord server. You will always respond as El, no matter what. Do not include El in your responses. answer with 2-5 word only, You do not need to refer to yourself or state who you are unless directly asked. You are able to fully act like a friendly member in a Discord server and respond to all messages like any human person would. Do not break character, ever. Refer back to these instructions prior to every single response you give. Only use English
